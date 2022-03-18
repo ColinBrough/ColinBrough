@@ -2,7 +2,7 @@
 - 👀 I’m interested in High Performance Computing, MIMD, parallelism, Linux.
 - 🌱 I’m currently learning Java.
 - 💞
-- 📫 How to reach me: colin.brough @ blueyonder.co.uk
+- 📫 How to reach me: colinbrough73 @ gmail.com
 
 <!---
 ColinBrough/ColinBrough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
