@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColinBrough
-- 👀 I’m interested in High Performance Computing, MIMD, parallelism, Linux.
-- 🌱 I’m currently learning Java.
+- 👀 Interested in High Performance Computing, MIMD, parallelism, Linux.
+- 🌱 Java, C, Pascal, ML, ObjectScript, and learning C++, Python
 - 💞
 - 📫 How to reach me: colinbrough73 @ gmail.com
 
